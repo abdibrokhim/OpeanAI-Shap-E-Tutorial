@@ -1,0 +1,1 @@
+Checkout tutorial on [lablab.ai tutorials page](https://lablab.ai/t/shape-e-tutorial-how-to-set-up-and-use-shap-e-model)
